@@ -1,0 +1,8 @@
+Answers:
+A> Ctrl+r and then type in a query to find matches.
+
+B> run the ls command with the -a flag.
+
+C> I haven't used any linux based OS. But if given oppurtunity I will learn to use it.
+
+D> No, I haven't used any servers to host any web server applications. 
